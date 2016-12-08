@@ -1,7 +1,7 @@
 import React from "react";
 import Request from "superagent";
 import _ from "lodash";
-import {Card, CardHeader, CardText} from 'material-ui/Card';
+import { Card, CardHeader, CardText } from 'material-ui/Card';
 import FlatButton from 'material-ui/FlatButton';
 import FontAwesome from 'react-fontawesome';
 import { browserHistory, Link } from "react-router";
